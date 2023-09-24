@@ -9,9 +9,9 @@ Before using the IRC server and client, ensure that you have the necessary depen
 
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/[YourUsername]/[YourRepositoryName].git
+```bash
+git clone https://github.com/Julian1612/42_irc.git
+```
 Compile and Run the IRC Server:
 
 Follow the instructions provided in the server's README to compile and start the IRC server.
