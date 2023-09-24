@@ -1,9 +1,9 @@
-IRC Server and Client - Weechat
-Overview
+## IRC Server and Client - Weechat
+# Overview
 
 This project is a collaborative effort between [Your Name] and [DGross] to create an IRC (Internet Relay Chat) server and client using Weechat. IRC is a protocol for real-time text messaging and has been widely used for online communication in various communities. Weechat is a versatile IRC client that we utilized for this project. For more detailed information about the project and its functionality, please refer to the subject.
 
-Installation
+# Installation
 
 Before using the IRC server and client, ensure that you have the necessary dependencies installed on your system. We recommend setting up Weechat as your IRC client:
 
@@ -29,7 +29,7 @@ Start Weechat by running the following command:
 
 Copy code
 weechat
-Basic Usage
+# Basic Usage
 
 Now that you have the IRC server running and Weechat installed, you can connect to the server and interact with it. Here are three examples of how to use Weechat:
 
